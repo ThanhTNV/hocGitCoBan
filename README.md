@@ -1,8 +1,10 @@
 # 5 PHÚT HỌC GIT CÙNG THẦY ĐIỆP
 
 ## 1. SETUP GIT
+1. **git init**: Khởi tạo 1 repository ở khu vực local(client)
+2. **Create new repository**: Tạo 1 repository rỗng ở remote(server)
 
-## 2. 3 TRẠNG THÁI CỦA FILE
+## 2. 3 TRẠNG THÁI CỦA FILE (LOCAL)
 
 Chúng ta sẽ có các khu vực theo thứ tự dưới đây
 
